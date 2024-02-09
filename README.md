@@ -1,4 +1,5 @@
 Student - Mentor Management System Backend
+<<<<<<< HEAD
 
 Mentor
 •	GET Get All Mentors = https://student-mentor-management-rhq8.onrender.com/mentors
